@@ -25,9 +25,9 @@ import random
 > enemies
 
 ![First enemy](/game/enemy.png)
-![Second enemy](/game/monster.png)
-![Third enemy](/game/monsterTWO.png)
+![Second enemy](/game/monster.jpg)
+![Third enemy](/game/monsterTWO.jpg)
 
 > Prizes
 
-![Prize to win](/game/prize.png)
+![Prize to win](/game/prize.jpg)
