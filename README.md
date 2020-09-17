@@ -22,3 +22,12 @@ import random
 
 ![Main Character](/game/image.png)
 
+> enemies
+
+![First enemy](/game/enemy.png)
+![Second enemy](/game/monster.png)
+![Third enemy](/game/monsterTWO.png)
+
+> Prizes
+
+![Prize to win](/game/prize.png)
